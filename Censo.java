@@ -15,9 +15,14 @@ public class Censo {
             System.out.println("2 : ingrese Cedula");
             System.out.println("3 : Ingresar edad");
             System.out.println("4 : I");
-            System.out.println("5 : Eliminar Articulo");
-            System.out.println("6 : Salir ");
-            opt = m.ValidarEntero(sc);   
+
+        switch (A) {
+            case 1:
+                
+                break;
+        
+            default:
+                break;
         }
     }
 }
